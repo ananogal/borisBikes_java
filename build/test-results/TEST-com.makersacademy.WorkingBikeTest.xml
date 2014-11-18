@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.makersacademy.WorkingBikeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-11-18T17:32:19" hostname="Ans-MacBook-Pro.local" time="0.01">
+  <properties/>
+  <testcase name="canBeBrokenMoreTimes" classname="com.makersacademy.WorkingBikeTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
