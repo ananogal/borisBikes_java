@@ -1,8 +1,5 @@
 package com.makersacademy.entities;
 
-/**
- * Created by ananogal on 18/11/2014.
- */
 public abstract class  Bike {
 
     Bike bike;
